@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/schelling_point_denver2/static/css/main.42aab9d3.css",
-    "main.js": "/schelling_point_denver2/static/js/main.4779b273.js",
+    "main.css": "/schelling_point_denver2/static/css/main.8955b3bb.css",
+    "main.js": "/schelling_point_denver2/static/js/main.30cbf0d0.js",
     "static/media/sp-bogota.mp4": "/schelling_point_denver2/static/media/sp-bogota.f89759a6960b5cb9b7aa.mp4",
     "static/media/flower.gif": "/schelling_point_denver2/static/media/flower.481c4d93462b9a0dc3e6.gif",
     "static/media/Travis_F.png": "/schelling_point_denver2/static/media/Travis_F.96a2811cfe0b2798d9a8.png",
@@ -108,11 +108,11 @@
     "static/media/drips.svg": "/schelling_point_denver2/static/media/drips.9dc00f9640a45697c7a607ab9314f1a4.svg",
     "static/media/lukso.svg": "/schelling_point_denver2/static/media/lukso.eb9b0c1d6b35a951bc701c8ef2e3e362.svg",
     "static/media/celo.svg": "/schelling_point_denver2/static/media/celo.4945a7f106381ffc80c382225f3a3c78.svg",
-    "main.42aab9d3.css.map": "/schelling_point_denver2/static/css/main.42aab9d3.css.map",
-    "main.4779b273.js.map": "/schelling_point_denver2/static/js/main.4779b273.js.map"
+    "main.8955b3bb.css.map": "/schelling_point_denver2/static/css/main.8955b3bb.css.map",
+    "main.30cbf0d0.js.map": "/schelling_point_denver2/static/js/main.30cbf0d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.42aab9d3.css",
-    "static/js/main.4779b273.js"
+    "static/css/main.8955b3bb.css",
+    "static/js/main.30cbf0d0.js"
   ]
 }
